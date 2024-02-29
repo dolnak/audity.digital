@@ -1,3 +1,3 @@
 # audity.digital
 
-** stranka o auditoch **
+**stranka o auditoch**
